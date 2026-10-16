@@ -1,0 +1,2 @@
+pip install google-api-python-client google-auth-oauthlib playwright
+playwright install chromium

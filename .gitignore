@@ -1,0 +1,42 @@
+# === Secrets & Credentials ===
+keyFree.txt
+tesModel.py
+credentials/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# === Media (large files, shouldn't be in git) ===
+download/
+videos/
+*.mp4
+*.mkv
+*.avi
+*.webm
+*.mov
+
+# === Generated / Runtime files ===
+list_upload.json
+temp.txt
+contoh.txt
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
